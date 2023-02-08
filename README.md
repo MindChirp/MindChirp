@@ -20,8 +20,7 @@
 
 <p>I'm a computer science student at NTNU in Trondheim, currently learning React, Typescript, Java and Python. That's all :).</p>
 
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MindChirp&theme=dark)](https://git.io/streak-stats)
 <!--
 **MindChirp/MindChirp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
