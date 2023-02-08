@@ -7,9 +7,9 @@
   <img src="https://img.shields.io/badge/python-pending-yellow">
   <img src="https://img.shields.io/badge/typescript-pending-yellow">
   <img src="https://img.shields.io/badge/react-pending-red">
-  <img src="https://img.shields.io/badge/javascript-passed-brightgreen">
-  <img src="https://img.shields.io/badge/css-passed-brightgreen">
-  <img src="https://img.shields.io/badge/html-passed-brightgreen">
+  <img src="https://img.shields.io/badge/javascript-passing-brightgreen">
+  <img src="https://img.shields.io/badge/css-passing-brightgreen">
+  <img src="https://img.shields.io/badge/html-passing-brightgreen">
   <img src="https://komarev.com/ghpvc/?username=MindChirp&style=flat-square&color=blue" alt=""/>
 </div>
 
