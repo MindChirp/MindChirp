@@ -5,6 +5,7 @@
 <div class="badges" align="center">
   <img src="https://img.shields.io/badge/java-pending-yellow">
   <img src="https://img.shields.io/badge/python-pending-yellow">
+  <img src="https://img.shields.io/badge/typescript-pending-yellow">
   <img src="https://img.shields.io/badge/react-pending-red">
   <img src="https://img.shields.io/badge/javascript-passed-brightgreen">
   <img src="https://img.shields.io/badge/css-passed-brightgreen">
@@ -17,7 +18,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p>I'm a computer science student at NTNU in Trondheim, currently learning React, Java and Python. That's all :).</p>
+<p>I'm a computer science student at NTNU in Trondheim, currently learning React, Typescript, Java and Python. That's all :).</p>
 
 
 
