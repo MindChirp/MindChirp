@@ -5,8 +5,8 @@
 <div class="badges" align="center">
   <img src="https://img.shields.io/badge/java-pending-yellow">
   <img src="https://img.shields.io/badge/python-pending-yellow">
-  <img src="https://img.shields.io/badge/typescript-pending-yellow">
-  <img src="https://img.shields.io/badge/react-passing-red">
+  <img src="https://img.shields.io/badge/typescript-passing-brightgreen">
+  <img src="https://img.shields.io/badge/react-passing-brightgreen">
   <img src="https://img.shields.io/badge/javascript-passing-brightgreen">
   <img src="https://img.shields.io/badge/css-passing-brightgreen">
   <img src="https://img.shields.io/badge/html-passing-brightgreen">
