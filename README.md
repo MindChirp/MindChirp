@@ -3,8 +3,8 @@
 </div>
 
 <div class="badges" align="center">
-  <img src="https://img.shields.io/badge/java-pending-yellow">
-  <img src="https://img.shields.io/badge/python-pending-yellow">
+  <img src="https://img.shields.io/badge/java-passing-brightgreen">
+  <img src="https://img.shields.io/badge/python-passing-brightgreen">
   <img src="https://img.shields.io/badge/typescript-passing-brightgreen">
   <img src="https://img.shields.io/badge/react-passing-brightgreen">
   <img src="https://img.shields.io/badge/javascript-passing-brightgreen">
