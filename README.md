@@ -18,7 +18,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p>I'm a computer science student at NTNU in Trondheim, currently learning React, Typescript, Java and Python. That's all :).</p>
+<p>I'm a computer technology student at NTNU with a completed Bachelor in systems engineering based in Trondheim, currently learning React, Typescript, Java and Python. That's all :).</p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MindChirp&theme=dark)](https://git.io/streak-stats)
 <!--
