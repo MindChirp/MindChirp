@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p>I'm a fullstack engineer and computer technology student at NTNU with a completed Bachelor in systems engineering based in Trondheim, mainly building cool projects with Typescript, React, Python, C#, and everything in between. That's all :).</p>
+<p>Fullstack engineer & NTNU computer tech student. Systems Engineering grad with a love for building cool projects. Usually found with my nose buried deep inside of TypeScript, React, Python, or C# projects. That's all :).</p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MindChirp&theme=dark)](https://git.io/streak-stats)
 <!--
